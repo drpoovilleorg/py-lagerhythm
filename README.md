@@ -23,3 +23,4 @@ This is released under the BSD license so do anything you want with it,
 just remember to have fun.  Thanks to @djipko for helping me
 hack this to completion in a very short timeframe.
 
+Name credit goes to Nancy Benninger for "lagerhythm" :)
