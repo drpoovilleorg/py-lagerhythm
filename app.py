@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# setup flask to run with OpenShift
+# https://github.com/openshift/flask-example
+# https://www.openshift.com/blogs/beginners-guide-to-writing-flask-apps-on-openshift
+
 import imp
 import os
 import sys
