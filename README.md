@@ -2,7 +2,7 @@ py-lagerhythm 0.1
 ==============
 
 This is a simple Python/Flask app which uses the 'tweepy' library
-to captures text and GPS coordinates and pass along to twitter.
+to capture text and GPS coordinates and pass along to twitter.
 
 There is also a Perl/CGI version called "Lagerhythm" which was initially
 written before porting this to Python.
